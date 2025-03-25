@@ -15,7 +15,7 @@
       "type": "string"
     },
     "Details": {
-      "type": "string"
+      "type": "text"
     },
     "slug": {
       "type": "uid",
